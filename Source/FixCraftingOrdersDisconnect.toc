@@ -1,0 +1,6 @@
+## Interface: 100002
+## Name: Fix Crafting Orders Disconnect
+## Author: Teelo
+## Dependencies: Blizzard_Professions
+
+FixCraftingOrdersDisconnect.lua
